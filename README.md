@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/142073141?v=4" width="160" style="border-radius: 20px; box-shadow: 0 0 12px rgba(0,0,0,0.3);" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQFmveYhb6BoDQ/feedshare-shrink_2048_1536/B4EZXDBbInGgAo-/0/1742733688388?e=1765411200&v=beta&t=XATJZPCxiNVJzsHDp9Dy8O4xdZm3j72W-Gy3u7s7Lxc" width="160" style="border-radius: 20px; box-shadow: 0 0 12px rgba(0,0,0,0.3);" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kiran Kasana</h1>
