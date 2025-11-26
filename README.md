@@ -80,14 +80,9 @@
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
 
-## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=dark)
-
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=tokyonight)
 
 
 ## 📊 GitHub Stats
