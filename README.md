@@ -62,13 +62,6 @@
 </p>
 
 ---
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=8A2BE2&border_color=00FFFF)
-
-
 
 
 ### 🧠 Most Used Languages
@@ -76,20 +69,14 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF)
 
 
-// Source - https://stackoverflow.com/q
-// Posted by user17458330, modified by community. See post 'Timeline' for change history
-// Retrieved 2025-11-26, License - CC BY-SA 4.0
+### 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
-
-
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=8A2BE2&border_color=00FFFF)
 
 
 
