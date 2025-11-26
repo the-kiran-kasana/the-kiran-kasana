@@ -80,27 +80,22 @@
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
 
+## 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=dark)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
-
-
-
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
-
-
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff)
-
-![GitHub Stats](https://github-readme-stats-kappa-five.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-kiran-kasana&bg_color=0D1117&color=00F7FF&line=00E6FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-kiran-kasana&bg_color=0D1117&color=4992EB&line=21BCFF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 
