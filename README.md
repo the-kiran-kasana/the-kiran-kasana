@@ -66,19 +66,18 @@
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
 
 
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
 
 
-📈 Activity graph (last ~30 days)
-![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=the-kiran-kasana&theme=github)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana)
 
-🔥 Streak / Contribution Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-kiran-kasana&theme=tokyonight)
 
-![Contribution Graph](https://github.com/the-kiran-kasana/the-kiran-kasana/blob/main/contribution-graph.png?raw=true)
 
 
 
