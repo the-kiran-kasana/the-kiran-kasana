@@ -72,6 +72,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
 
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
+
+### 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
+
+
+
 
 ## 📄 View My Resume  
 👉 [Click to view my resume](https://drive.google.com/file/d/1mRoMD0lI1FtuHYHi4XEOuGct-GCVybpH/view?usp=sharing)
