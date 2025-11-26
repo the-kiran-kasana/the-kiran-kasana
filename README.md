@@ -66,7 +66,8 @@
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=8A2BE2&border_color=00FFFF)
+
 
 
 
