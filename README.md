@@ -72,7 +72,7 @@
 
 
 ## 📄 View My Resume  
-👉 [Click to view my resume](https://github.com/the-kiran-kasana/kiran-kasana-portfolio/blob/main/kiran-kasana-protfolio/public/resume.pdf)
+👉 [Click to view my resume](https://drive.google.com/file/d/1mRoMD0lI1FtuHYHi4XEOuGct-GCVybpH/view?usp=sharing)
 
 
 <div class="motto-wrap">
