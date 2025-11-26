@@ -70,6 +70,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
 
 
