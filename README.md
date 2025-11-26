@@ -69,14 +69,8 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&theme=tokyonight)
 
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=8A2BE2&border_color=00FFFF)
 
 
 
