@@ -77,7 +77,7 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana)
 
 
 
