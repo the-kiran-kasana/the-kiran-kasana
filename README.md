@@ -66,6 +66,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
+
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
 
@@ -75,7 +76,5 @@
 👉 [Click to view my resume](https://drive.google.com/file/d/1mRoMD0lI1FtuHYHi4XEOuGct-GCVybpH/view?usp=sharing)
 
 
-<div class="motto-wrap">
-  <p class="motto">💡 Building ideas into reality — <span>one line of code at a time.</span> ✨</p>
-</div>
+
 
