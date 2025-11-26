@@ -75,6 +75,16 @@
 📈 Activity graph (last ~30 days)
 ![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=the-kiran-kasana&theme=github)
 
+🔥 Streak / Contribution Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-kiran-kasana&theme=tokyonight)
+
+![Contribution Graph](https://github.com/the-kiran-kasana/the-kiran-kasana/blob/main/contribution-graph.png?raw=true)
+
+
+
+
+
+
 
 
 
