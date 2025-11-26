@@ -2,8 +2,21 @@
   <img src="https://avatars.githubusercontent.com/u/142073141?v=4" width="160" style="border-radius: 20px; box-shadow: 0 0 12px rgba(0,0,0,0.3);" />
 </p>
 
+
+
+
 <h1 align="center">Hi 👋, I'm Kiran Kasana</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=4992EB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+Enthusiast;Problem+Solver;Tech+Explorer+%26+Learner" />
+</p>
+
+
 <p>Welcome to my GitHub profile! I'm a Passionate Full Stack Developer and Tech enthusiast with a love for creating user friendly application. i enjoy working on both frontend and backend technologies. i am always eager to learn and explore new tools and frameworks. </p>
+
+
+
+
 
 ---
 
@@ -71,6 +84,27 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
+
+
+
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
+
+
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff)
+
+![GitHub Stats](https://github-readme-stats-kappa-five.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-kiran-kasana&bg_color=0D1117&color=00F7FF&line=00E6FF&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+
+
 
 
 
