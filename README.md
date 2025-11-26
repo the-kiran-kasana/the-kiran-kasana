@@ -93,25 +93,9 @@
 
 
 
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-kiran-kasana&bg_color=0D1117&color=4992EB&line=21BCFF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
-
-
-
-
-
-
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=merko)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=merko)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=merko)
 
 
 
