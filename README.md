@@ -76,13 +76,13 @@
 
 ---
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=dark)
+
+
 
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
-
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=dark)
 
 
 <p align="center">
