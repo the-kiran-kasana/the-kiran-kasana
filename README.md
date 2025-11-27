@@ -93,7 +93,7 @@
 
 
 ## 📄 View My Resume  
-👉 [Click to view my resume](https://drive.google.com/file/d/1oCEwJvu5oqCCfUDkHPXQezIQmuo1S6mZ/view?usp=sharing)
+👉 [Click to view my resume](https://drive.google.com/file/d/1HGbI66Kfkw5JjdRT_0YwT3QI-JcqKH_p/view?usp=sharing)
 
 
 
