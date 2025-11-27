@@ -83,6 +83,9 @@
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
+ ## 📊 GitHub Stats 
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=the-kiran-kasana&show_icons=true&bg_color=000000&title_color=00FFFF&theme=tokyonight)
+
 
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kiran-kasana&layout=compact&theme=tokyonight)
