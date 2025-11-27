@@ -79,6 +79,9 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=the-kiran-kasana&theme=dark)
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-kiran-kasana&show_icons=true&theme=tokyonight)
 
 
 ### 🧠 Most Used Languages
