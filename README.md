@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **MERN, Firebase, AI Chatbots**
 - 🔭 I build real-world projects & love problem solving
 - 💬 Ask me about **React, Node, MongoDB, JavaScript**
-- 🌐 Portfolio : **visit here**
+- 🌐 Portfolio : **[visit here](https://kiran-kasana-portfolio.netlify.app/)**
 - 📫 Reach me at **kkasanacoder@gmail.com**
 
 ---
