@@ -43,6 +43,7 @@
 ### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"  height="40"  width="100"/>
+  <img src="https://img.shields.io/badge/Google-E34F26?logo=Google&logoColor=white"  height="40"  width="100"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="30"  width="90" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="30"  width="100"/>
   <img src="https://img.shields.io/badge/Redux-B462E3?logo=redux&logoColor=F4EDF7" height="30"  width="100"/>
