@@ -41,16 +41,7 @@
 ## 🛠 Tech Stack 
 
 ### **Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"  height="40"  width="100"/>
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="30"  width="90" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="30"  width="100"/>
-  <img src="https://img.shields.io/badge/Redux-B462E3?logo=redux&logoColor=F4EDF7" height="30"  width="100"/>
-  <img src="https://img.shields.io/badge/TypeScript-0096FF?logo=TypeScript&logoColor=F0FFFF" height="30"  width="150"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="100"  width="120"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-F0FFFF?logo=tailwind&logoColor=0096FF" height="100"  width="120"/>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="35"/> <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="35"/> </p>
 
 ### **Backend**
 
