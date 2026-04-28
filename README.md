@@ -45,26 +45,13 @@
 
 ### **Backend**
 
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="40"  width="100"/>
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="40"  width="100"/>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="35"/> </p>
 
 ### **Database**
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="60"  width="100" />
-<img src="https://img.shields.io/badge/Firebase-white?logo=firebase&logoColor=F54927" height="60"  width="100" />
-<img src="https://img.shields.io/badge/SQL-7393B3?logo=MySQL&logoColor=white" height="30"  width="90" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="35"/> </p>
 
 ### **Tools**
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"  width="100"/>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="40"  width="100"/>
-<img src="https://img.shields.io/badge/Postman-F54927?logo=postman&logoColor=white" height="40"  width="110"/>
-<img src="https://img.shields.io/badge/VS%20Code-4682B4?logo=visualstudiocode&logoColor=white"  height="30"  width="120"/>
-<img src="https://img.shields.io/badge/IntelliJ-8737F0?logo=IntelliJ&logoColor=white" height="30"  width="100"/>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="35"/> </p>
 
 ---
 
