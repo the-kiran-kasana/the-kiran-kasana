@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Kiran Kasana</h1>
+<h1 align="center">Hi 👋 , I'm Kiran Kasana</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=4992EB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+Enthusiast;Problem+Solver;Tech+Explorer+%26+Learner" />
