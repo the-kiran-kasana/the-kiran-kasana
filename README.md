@@ -76,8 +76,6 @@
 
 
 ## 📄 View My Resume  
-👉 [Click to view my resume](https://drive.google.com/file/d/1HGbI66Kfkw5JjdRT_0YwT3QI-JcqKH_p/view?usp=sharing)
-
-
+👉 [Click to view my resume](https://drive.google.com/file/d/1QScWP98w_N2Xm0DfGI9WgpY5Nrk6X7oM/view?usp=sharing)
 
 
